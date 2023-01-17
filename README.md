@@ -9,13 +9,9 @@ No installation needed for this application. Just run it on a browser. Google Ch
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Deployed application page: https://twqueen.github.io/Module4-CodeQuiz/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Quiz Page GIF](./assets/Bootcamp%20Week%204%20Quiz%20Challenge.gif)
 
 ## Credits
 
