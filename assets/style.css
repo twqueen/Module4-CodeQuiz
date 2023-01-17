@@ -1,0 +1,26 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding: 10px;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 0;
+}
+
+header {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: black;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+h2, h3 {
+    font-family: 'Arima Madurai', cursive;
+}
+
+.scores-list {
+    padding: 0;
+    line-height: 0;
+}
